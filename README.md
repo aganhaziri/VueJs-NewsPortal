@@ -1,2 +1,2 @@
-# VueJs-NewsPortal
-A simple MEVN Stack News Portal.
+# DizajniWeb
+Projekti ne lenden Zhvillim dhe Dizajnim i Web
